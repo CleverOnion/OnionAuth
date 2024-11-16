@@ -1,0 +1,9 @@
+name: OnionAuth
+version: '1.0-SNAPSHOT'
+main: com.cleveronion.onionAuth.OnionAuth
+api-version: '1.20'
+commands:
+  login:
+    aliases:
+      - "l"
+    description: "登录命令"
